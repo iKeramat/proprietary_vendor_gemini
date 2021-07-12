@@ -584,6 +584,5 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     dpmserviceapp \
     ims \
-    WfdCommon \
     ReferenceFeature \
     chargeonlymode
